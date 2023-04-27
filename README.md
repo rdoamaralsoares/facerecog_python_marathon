@@ -26,7 +26,7 @@ Ricardo Soares
 ## Version History
 
 * 0.1
-    * Primeiro código de exemplo para treinamento
+    * Segundo código de exemplo para treinamento
 
 Inspiration, code snippets, etc.
 * [aws rekognition](https://aws.amazon.com/pt/rekognition/)
